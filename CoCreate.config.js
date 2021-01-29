@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "60136a9186c0ba24512cca48",
             key: "html",
             data:{
                 name: "Iframe Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "60136a9186c0ba24512cca47",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "60136a9186c0ba24512cca48",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/iframe",
